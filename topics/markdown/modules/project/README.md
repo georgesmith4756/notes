@@ -3,16 +3,16 @@
 Edit this file for the Task found in Markdown - Advanced
 
 <details>
-<summary>"Click for instructions"</summary>
+<summary>Click for instructions</summary>
   
   <ol>
   <li>Install python3 (including a link to the website)</li>
-  Install pip3 - sudo apt install python-pip
-  Pip install virtualenv with pip3 install virtualenv
-  Create their virtual environment - virtualenv venv
-  And make sure they are working inside of it - source venv/bin/activate
-  Install the pip dependencies file, using pip3 install -r pip_dependencies.txt
-  Run the python program - python3 pass_gen.py
+  <li>Install pip3 - sudo apt install python-pip</li>
+  <li>Pip install virtualenv with pip3 install virtualenv</li>
+  <li>Create their virtual environment - virtualenv venv</li>
+  <li>And make sure they are working inside of it - source venv/bin/activate</li>
+  <li>Install the pip dependencies file, using pip3 install -r pip_dependencies.txt</li>
+  <li>Run the python program - python3 pass_gen.py</li>
   </ol>
 </details>
 
