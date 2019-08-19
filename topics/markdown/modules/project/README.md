@@ -6,7 +6,7 @@ Edit this file for the Task found in Markdown - Advanced
 <summary>Click for instructions</summary>
   
   <ol>
-  <li>**Install python3** (https://www.python.org/downloads/)</li>
+  <li><b>Install python3</b> (https://www.python.org/downloads/)</li>
   <li>**Install pip3** - using the command sudo apt install python-pip</li>
   <li>**Pip install virtualenv** -with the command pip3 install virtualenv</li>
   <li>**Create your virtual environment** - using the command virtualenv venv</li>
