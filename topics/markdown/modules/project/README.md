@@ -6,9 +6,9 @@ Edit this file for the Task found in Markdown - Advanced
 <summary>Click for instructions</summary>
   
   <ol>
-  <li>Install python3 (including a link to the website)</li>
-  <li>Install pip3 - sudo apt install python-pip</li>
-  <li>Pip install virtualenv with pip3 install virtualenv</li>
+  <li>Install python3 (https://www.python.org/downloads/)</li>
+  <li>Install pip3 - using the command sudo apt install python-pip</li>
+  <li>Pip install virtualenv with the command pip3 install virtualenv</li>
   <li>Create their virtual environment - virtualenv venv</li>
   <li>And make sure they are working inside of it - source venv/bin/activate</li>
   <li>Install the pip dependencies file, using pip3 install -r pip_dependencies.txt</li>
